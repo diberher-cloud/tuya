@@ -15,6 +15,7 @@ Viven en `.claude/agents/` y se cargan automáticamente al abrir Claude Code en 
 | `coo` | COO | Operaciones, soporte, conciliación, cobranza, ejecución |
 | `cmo` | CMO / Growth | Adquisición, marca, GTM, retención, competencia |
 | `cpo` | CPO | Roadmap, discovery, diseño de productos financieros |
+| `chro` | CHRO | Organización, headcount, talento, compensación y equity, cultura, laboral |
 
 Todos responden en español con el mismo formato (lectura, recomendación, fundamento,
 riesgos y dependencias, KPIs, próximos pasos 30/60/90, nivel de confianza), lo que

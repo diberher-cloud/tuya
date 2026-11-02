@@ -62,5 +62,5 @@ Tests mock the TradingView API call, so they run offline.
 ## Staff ejecutivo de agentes
 
 Este repo incluye un equipo de subagentes de Claude Code (CEO, CFO, CTO, CRO, CCO,
-General Counsel, CISO, COO, CMO, CPO) y el comando `/comite-ejecutivo`.
+General Counsel, CISO, COO, CMO, CPO, CHRO) y el comando `/comite-ejecutivo`.
 Ver [docs/staff-ejecutivo.md](docs/staff-ejecutivo.md).
